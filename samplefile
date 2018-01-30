@@ -1,4 +1,4 @@
-hello 
+#hello 
 
 first sample
 modified in github
@@ -7,11 +7,8 @@ commit
 modified in github 
 
 firstbranch file
-<<<<<<< HEAD
 
 
 for conflicts first
 modified in AWS
- first
-=======
->>>>>>> parent of 6649637... added line in AWS
+
